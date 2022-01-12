@@ -1,0 +1,18 @@
+header{
+    width:100%;
+    color: black;
+    background-color: red;
+}
+img {
+    border:red 5px solid;
+}
+article img {
+    width:100‰
+}
+.menu {
+    background-color: gray;
+    padding: 20px 10px;
+}
+nav.menu ul li {
+    list-style: none;
+}
